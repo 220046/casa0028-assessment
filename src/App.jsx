@@ -250,7 +250,12 @@ function App() {
           </p>
           <p className="text-xs text-slate-500 mt-1">
             Population data: ONS Mid-2024 Estimates &middot;
-            Built with React, Chart.js & MapLibre GL &middot; CASA0028 Assessment 1
+            Photos:{' '}
+            <a href="https://unsplash.com" target="_blank" rel="noopener noreferrer"
+              className="underline hover:text-slate-700">Unsplash</a>
+          </p>
+          <p className="text-xs text-slate-500 mt-1">
+            Built with React, Chart.js &amp; MapLibre GL &middot; CASA0028 Assessment 1
           </p>
         </div>
       </footer>
