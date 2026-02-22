@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/london-fire/',
+  base: '/casa0028-assessment/',
   plugins: [
     react({
       babel: {
